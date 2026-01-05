@@ -90,11 +90,11 @@ npm install
 Create a .env file in the root directory and paste your Appwrite credentials as shown below :
 
 VITE_APPWRITE_URL="[https://cloud.appwrite.io/v1](https://cloud.appwrite.io/v1)"
-VITE_APPWRITE_PROJECT_ID="your_project_id_here"
-VITE_APPWRITE_DATABASE_ID="your_database_id_here"
-VITE_APPWRITE_COLLECTION_ID="your_collection_id_here"
-VITE_APPWRITE_BUCKET_ID="your_bucket_id_here"
-VITE_TINYMCE_API_KEY="your_tinymce_api_key_here"
+VITE_APPWRITE_PROJECT_ID="your_project_id_"
+VITE_APPWRITE_DATABASE_ID="your_database_id_"
+VITE_APPWRITE_COLLECTION_ID="your_collection_id_"
+VITE_APPWRITE_BUCKET_ID="your_bucket_id_"
+VITE_TINYMCE_API_KEY="your_tinymce_api_key_"
 
 ```
 * Run the development server
